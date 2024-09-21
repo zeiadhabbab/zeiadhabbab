@@ -17,6 +17,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,jquery,figma,mysql,php,wordpress)](https://zeyadmh.com)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
+</picture>
 
 
 
