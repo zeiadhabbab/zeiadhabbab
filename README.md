@@ -23,7 +23,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
 </picture>
 
-
+<img src="https://algora.io/og/user/zeiadhabbab" />
 
 ## 💖 Support the Project
 
