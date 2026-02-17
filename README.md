@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://zeyadmh.com/](https://zeyadmh.com/)
 
-- 💬 Ask me about **Angular, Html, CSS, React, JavaScript, Typescript**
+- 💬 Ask Me About: **Angular, React, JavaScript, TypeScript, HTML5 & CSS3, Frontend Architecture, Performance Optimization, Scalable SaaS Applications, UI/UX Implementation, WordPress & WooCommerce Development, API Integrations, AI-Assisted Development Workflows, E-commerce Solutions, RTL/LTR Localization, Mentoring & Code Quality Best Practices**.
 
 - 📫 How to reach me **me@zeyadmh.com**
 
